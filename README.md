@@ -1,5 +1,6 @@
-# Rimworld-Mod-Template
+# Rimworld Dotnet Template
 A dotnet template for quickly making Rimworld mods via Command line or your favorite IDE.
+
 
 ## Getting Started
 [Download Git](https://git-scm.com/)
