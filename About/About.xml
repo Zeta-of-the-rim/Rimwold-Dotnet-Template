@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+    <name>"Mod Name Here"</name>
+    <author>"Your Name Here"</author>
+    <packageId>yourName.ModName</packageId>
+    <description>"Super Cool Mod"</description>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+</ModMetaData>
+<!--
+When adding a preview photo
+
+Must be called Preview.png
+
+Should be
+640x360
+
+Must Not Be Larger then 1MB in size
+ -->

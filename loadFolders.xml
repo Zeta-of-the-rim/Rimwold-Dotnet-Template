@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--used for locking code behide versions and mod requirements
+For example
+
+
+<loadFolders>
+  <v1.1>
+    <li>/</li>
+    <li>1.1</li>
+  </v1.1>
+  <v1.2>
+    <li>/</li>
+    <li>1.2</li>
+    <li IfModActive="Royalty">RoyaltyDefs</li>
+  </v1.2>
+</loadFolders>
+-->

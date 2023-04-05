@@ -1,0 +1,23 @@
+{
+    "author": "Zeta",
+    "name": "Rimworld Mod Template",
+    "description": "A project for creating Rimworld mods using C# and Xml.",
+    "identity": "Zeta.RimworldMod.1.4",
+    "shortName": "RimMod",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "ModSource",
+    "sources": [{
+        "modifiers": [{
+            "exclude": [
+                ".git/**",
+                "README.md"
+            ]
+        }]
+    }],
+    "symbols": {
+
+    }
+}
