@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModMetaData>
-    <name>"Mod Name Here"</name>
+    <name>ModSource</name>
     <author>"Your Name Here"</author>
     <packageId>yourName.ModName</packageId>
     <description>"Super Cool Mod"</description>
