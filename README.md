@@ -9,7 +9,7 @@ Open Git Bash to where you want to download the files to.
 
 Clone this project
 ```bash
-git clone https://github.com/Burgess12/Rimwold-Mod-Template.git "RimMod"
+git clone https://github.com/Zeta-of-the-rim/Rimwold-Dotnet-Template.git "RimMod"
 ```
 
 Enter directory

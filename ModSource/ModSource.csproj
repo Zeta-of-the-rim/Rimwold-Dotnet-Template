@@ -49,6 +49,17 @@
     </Target>
     <Target Name="AfterBuild">
     </Target>
-    -->
+    -->    
+	<ItemDefinitionGroup>
+        <Reference>
+            <Private>False</Private>
+        </Reference>
+        <ProjectReference>
+            <Private>False</Private>
+        </ProjectReference>
+        <PackageReference>
+            <ExcludeAssets>runtime</ExcludeAssets>
+        </PackageReference>
+    </ItemDefinitionGroup>
 
 </Project>
